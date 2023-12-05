@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE emp-table[
+<!ELEMENT emp-table (id, name, salary, date, position)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT salary (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT position (#PCDATA)>
+]>
+<emp-table>
+    <id>2306f1</id>
+    <name>Hammad</name>
+    <salary>50000</salary>
+    <date>12-05-2023</date>
+    <position>Manager</position>
+</emp-table>
